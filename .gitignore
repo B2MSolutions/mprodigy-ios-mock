@@ -6,6 +6,8 @@ lib-cov
 *.out
 *.pid
 *.gz
+*.p7s
+*.plist
 
 pids
 logs
