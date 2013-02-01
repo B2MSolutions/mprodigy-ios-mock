@@ -1,0 +1,17 @@
+{
+	"name" : "mprodigy-ios-mock",
+	"description" : "",
+	"version" : "0.0.1",
+	"dependencies": {
+		"async" : "*",
+		"cheerio" : "*",
+		"underscore" : "*",
+		"request" : "*",
+		"winston" : "*"
+	},
+	"devDependencies" : {
+		"mocha" : "*",
+		"should" : "*",
+		"sinon" : "*"
+	}
+}
