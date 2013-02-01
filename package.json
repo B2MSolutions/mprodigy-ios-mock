@@ -6,6 +6,7 @@
 		"async" : "*",
 		"cheerio" : "*",
 		"underscore" : "*",
+		"node-uuid" : "*",
 		"request" : "*",
 		"winston" : "*"
 	},
